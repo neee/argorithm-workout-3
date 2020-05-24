@@ -1,6 +1,8 @@
-package ru.serdyuk.queue;
+package ru.serdyuk;
 
 import java.util.stream.IntStream;
+
+import ru.serdyuk.queue.PriorityQueue;
 
 public class TestQueue {
 

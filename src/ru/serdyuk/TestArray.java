@@ -1,6 +1,13 @@
-package ru.serdyuk.array;
+package ru.serdyuk;
 
 import java.util.Random;
+
+import ru.serdyuk.array.Array;
+import ru.serdyuk.array.ArrayListWrapper;
+import ru.serdyuk.array.FactorArray;
+import ru.serdyuk.array.MatrixArray;
+import ru.serdyuk.array.SingleArray;
+import ru.serdyuk.array.VectorArray;
 
 public class TestArray {
 
